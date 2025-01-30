@@ -7,6 +7,6 @@ int main() {
         print("True\n");
     }
     else{
-        print("False")
+        print("False\n")
     }
 }
