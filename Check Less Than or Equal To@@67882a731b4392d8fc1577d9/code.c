@@ -9,4 +9,5 @@ int main() {
     else{
         print("False\n");
     }
+    return 0;
 }
