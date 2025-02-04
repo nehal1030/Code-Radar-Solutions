@@ -10,7 +10,5 @@ int main() {
     else{
         printf("False\n")
     }
-    
-    // printf(result ? "True\n" : "False\n");
     return 0;
 }
