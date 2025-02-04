@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    int a;
-    scanf("%d",&a);
-    if (!(!(a > 0))){
+    int num;
+    scanf("%d",&num);
+    if (!(num > 0)) {
         printf("True\n")
-    }
-    else{
+    } else{
         printf("False\n")
     }
     return 0;
