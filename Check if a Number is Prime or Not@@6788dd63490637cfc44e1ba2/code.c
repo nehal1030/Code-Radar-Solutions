@@ -3,7 +3,7 @@
 int main() {
     int n;
     scanf("%d" , &n);
-    int isPrime = 0;
+    int isPrime = 1;
     if (n<=1) {
         isPrime = 0;
     }
