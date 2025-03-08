@@ -6,7 +6,7 @@ int main(){
         char ch = 'A';
         for(int j=1 ; j<=n ; j++){
             if(j<=i){
-                printf("%d ",j);
+                printf("%d ",ch);
             }
             else{
                 printf(" ");
