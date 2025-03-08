@@ -8,9 +8,9 @@ int main(){
             if(j>=i){
                 printf("%c ",ch++);
             }
-            else{
-                printf(" ");
-            }
+            // else{
+            //     printf(" ");
+            // }
         }
         printf("\n");
     }
